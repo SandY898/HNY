@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Монитор Samsung S27A350H",
+    "Price": 12990,
+    "Category": "Мониторы",
+    "Available": "В наличии",
+    "Rating": 4.7,
+    "Have a feedback": true
+  },
+  {
+    "Name": "Ноутбук ASUS VivoBook X515EA",
+    "Price": 59900,
+    "Category": "Ноутбуки",
+    "Available": "Под заказ",
+    "Rating": 4.0,
+    "Have a feedback": false
+  },
+  {
+    "Name": "Смартфон Xiaomi Redmi Note 11 Pro",
+    "Price": 24999,
+    "Category": "Смартфоны",
+    "Available": "В наличии",
+    "Rating": 4.8,
+    "Have a feedback": true
+  },
+  {
+    "Name": "Наушники Sony WH-1000XM4",
+    "Price": 25990,
+    "Category": "Наушники",
+    "Available": "Ожидается поступление",
+    "Rating": 4.9,
+    "Have a feedback": true
+  },
+  {
+    "Name": "Игровая приставка PlayStation 5",
+    "Price": 49990,
+    "Category": "Игровые консоли",
+    "Available": "Предзаказ",
+    "Rating": 4.6,
+    "Have a feedback": true
+  },
+  {
+    "Name": "Клавиатура Logitech G915 TKL",
+    "Price": 16990,
+    "Category": "Компьютерная периферия",
+    "Available": "В наличии",
+    "Rating": 4.5,
+    "Have a feedback": false
+  },
+  {
+    "Name": "Роутер TP-Link Archer AX50",
+    "Price": 7990,
+    "Category": "Сетевое оборудование",
+    "Available": "В наличии",
+    "Rating": 4.3,
+    "Have a feedback": true
+  },
+  {
+    "Name": "Внешний жесткий диск Seagate Backup Plus Hub 8TB",
+    "Price": 11990,
+    "Category": "Хранение данных",
+    "Available": "В наличии",
+    "Rating": 4.2,
+    "Have a feedback": false
+  },
+  {
+    "Name": "Умные часы Apple Watch Series 7",
+    "Price": 39990,
+    "Category": "Носимые устройства",
+    "Available": "В наличии",
+    "Rating": 4.8,
+    "Have a feedback": true
+  },
+  {
+    "Name": "Телевизор LG OLED55C1RLA",
+    "Price": 99990,
+    "Category": "Телевизоры",
+    "Available": "В наличии",
+    "Rating": 4.9,
+    "Have a feedback": true
+  }
+]
